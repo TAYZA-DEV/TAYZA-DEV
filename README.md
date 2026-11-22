@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Tayza 👋
 
-<!--
-**TAYZA-DEV/TAYZA-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Web Developer | Python \& Django
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning and building practical web applications with Python and Django. I enjoy solving problems, learning new technologies, and improving my development skills through real projects.
+
+### 🚀 About Me
+
+- 💻 Focused on Web Development
+- 🐍 Learning Python and Django
+- 🌱 Improving my skills through personal projects
+- 🎯 Working towards becoming a Professional Web Developer
+
+### 🛠️ Technologies & Tools
+
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- SQLite
+- PostgreSQL
+- Git \& GitHub
+
+### 📂 My Projects
+
+
+
+### 📚 Currently Learning
+
+- Advanced Django
+- Database Management
+- REST APIs
+- Professional Web Development
+
+---------------------------------------------------------------------------
+
+**Thanks for visiting my profile!** 😊
